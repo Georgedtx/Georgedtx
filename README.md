@@ -16,8 +16,9 @@
    ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/georgedantasti/" target="_blank"><img padding: "10px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:george.dantas2240@gmail.com"><img padding: "10px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/georgedantasti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:george.dantas2240@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href="https://wa.me/5579996470808"><img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </div>
 <!--
 **Georgedtx/Georgedtx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
