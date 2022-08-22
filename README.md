@@ -1,7 +1,7 @@
 ### Olá, sou o George 👋
 
 
-- 🌱 Ciências da Comutação
+- 🌱 Ciências da Computação
 
 <div align="center">
   <a href="https://github.com/Georgedtx">
