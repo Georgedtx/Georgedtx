@@ -5,6 +5,12 @@
 
 <p align="justify">Sou Bacharel em Ciência da Computação e tenho como objetivo empregar minhas habilidades e conhecimentos em ferramentas populares do mercado para a criação de aplicações de alta qualidade. Neste momento, estou envolvido com projetos de Inteligência Artificial e tenho dedicado meus estudos a essa área em específico.</p>
 
+<h3>
+    <span>Tecnologias</span>
+</h3>
+  <img align="center" alt="George-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</div>
+
    ##
 <h3 align="left">Conecte-se comigo</h3>
 <div> 
@@ -17,9 +23,7 @@
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=georgedtx&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
 
-<h3>
-    <span>Tecnologias</span>
-</h3>
+
 <!--<div align="center">
   <a href="https://github.com/Georgedtx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Georgedtx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -35,8 +39,6 @@
   <!--<img align="center" alt="George-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">-->
   <!--<img align="center" alt="George-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">  
 -->
-  <img align="center" alt="George-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-</div>
   
    ##
 <h3 align="left">Conecte-se comigo</h3>
