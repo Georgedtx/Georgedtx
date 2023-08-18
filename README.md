@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/Georgedtx/Georgedtx/assets/56283769/c1e526bf-d5ff-4d0d-86de-f4b96329f236">
 <h1>
     <span>George Dantas</span>
 </h1>
@@ -23,8 +23,8 @@
 
 <div align="center">
   <a href="https://github.com/Georgedtx">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Georgedtx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Georgedtx&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Georgedtx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Georgedtx&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <!--
