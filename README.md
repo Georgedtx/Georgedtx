@@ -3,12 +3,23 @@
     <span>George Dantas</span>
 </h1>
 
-<p align="justify">Sou Bacharel em Ciência da Computação e tenho como objetivo empregar minhas habilidades e conhecimentos em ferramentas populares do mercado para a criação de aplicações de alta qualidade. Neste momento, estou envolvido com projetos de Inteligência Artificial e tenho dedicado meus estudos a essa área em específico.</p>
+<p align="justify">Desenvolvedor com experiência em liderança, IA, RPA e desenvolvimento de backend com Node.js. Atualmente, estou focado na criação de APIs enquanto lidero uma equipe, buscando constantemente aprimorar meus conhecimentos e aplicá-los da melhor maneira possível.
+
+Experiências principais:
+
+- Desenvolvimento de Backend: Criação de APIs utilizando Node.js com TypeScript.
+- Liderança: Experiência em liderar projetos que utilizam RPA e IA; atualmente liderando uma equipe de desenvolvimento web e mobile.
+- Inteligência Artificial (IA): Desenvolvimento de soluções inteligentes para diversas áreas.
+- Automação de Processos Robóticos (RPA): Implementação de automações que otimizam processos repetitivos.</p>
 
 <h3>
     <span>Tecnologias</span>
 </h3>
-<img align="center" alt="George-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+
+<div>
+<img align="center" alt="George-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+<img align="center" alt="George-TYPSCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</div>
 
 <h3 align="left">Conecte-se comigo</h3>
 <div> 
