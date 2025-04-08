@@ -3,14 +3,13 @@
     <span>George Dantas</span>
 </h1>
 
-<p align="justify">Desenvolvedor com experiência em liderança, IA, RPA e desenvolvimento de backend com Node.js. Atualmente, estou focado na criação de APIs enquanto lidero uma equipe, buscando constantemente aprimorar meus conhecimentos e aplicá-los da melhor maneira possível.
+<p align="justify">Desenvolvedor com experiência em Python, FastAPI, TypeScript, Inteligência Artificial, Liderança e RPA. Atualmente, foco na criação de APIs com FastAPI e TypeScript, sempre buscando aprimorar meus conhecimentos.
 
-Experiências principais:
-
-- Desenvolvimento de Backend: Criação de APIs utilizando Node.js com TypeScript.
-- Liderança: Experiência em liderar projetos que utilizam RPA e IA; atualmente liderando uma equipe de desenvolvimento web e mobile.
-- Inteligência Artificial (IA): Desenvolvimento de soluções inteligentes para diversas áreas.
-- Automação de Processos Robóticos (RPA): Implementação de automações que otimizam processos repetitivos.</p>
+Experiências Principais:
+- Desenvolvimento de Backend: Criação de APIs utilizando FastAPI e TypeScript.
+- Inteligência Artificial (IA): Desenvolvimento de soluções inteligentes aplicadas a diversas áreas.
+- Liderança: Experiência na liderança de projetos envolvendo TypeScript, Jogos, RPA e IA.
+- Automação de Processos Robóticos (RPA): Implementação de soluções para otimizar e automatizar processos repetitivos, aumentando a eficiência operacional.</p>
 
 <h3>
     <span>Tecnologias</span>
