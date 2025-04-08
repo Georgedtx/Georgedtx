@@ -1,7 +1,8 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/Georgedtx/Georgedtx/assets/56283769/c1e526bf-d5ff-4d0d-86de-f4b96329f236">
 <h1>
     <span>George Dantas</span>
 </h1>
+
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/Georgedtx/Georgedtx/assets/56283769/c1e526bf-d5ff-4d0d-86de-f4b96329f236">
 
 <p align="justify">Desenvolvedor com experiência em Python, FastAPI, TypeScript, Inteligência Artificial, Liderança e RPA. Atualmente, foco na criação de APIs com FastAPI e TypeScript, sempre buscando aprimorar meus conhecimentos.
 
