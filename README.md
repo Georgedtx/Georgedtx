@@ -10,11 +10,11 @@
 
 <p align="justify">
     <strong>Experiências Principais:</strong><br>
-    - <strong>Desenvolvimento de Backend:</strong> Criação de APIs utilizando TypeScript e FastAPI.<br>
-    - <strong>Desenvolvimento de Frontend:</strong> Criação de aplicações web com React.<br>
-    - <strong>Inteligência Artificial (IA):</strong> Desenvolvimento de soluções inteligentes aplicadas a diversas áreas.<br>
-    - <strong>Liderança:</strong> Experiência na liderança de projetos envolvendo TypeScript, Jogos, RPA e IA.<br>
-    - <strong>Automação de Processos Robóticos (RPA):</strong> Implementação de soluções para otimizar e automatizar processos repetitivos, aumentando a eficiência operacional.<br>
+    -<strong>Desenvolvimento de Backend:</strong> Criação de APIs utilizando TypeScript e FastAPI.<br>
+    -<strong>Desenvolvimento de Frontend:</strong> Criação de aplicações web com React.<br>
+    -<strong>Inteligência Artificial (IA):</strong> Desenvolvimento de IA aplicada a diversas áreas.<br>
+    -<strong>Liderança:</strong> Liderança em projetos de TypeScript, Jogos, RPA e IA.<br>
+    -<strong>Automação de Processos Robóticos (RPA):</strong> Implementação de soluções para otimizar e automatizar processos repetitivos, aumentando a eficiência operacional.<br>
 </p>
 
 <h3>
