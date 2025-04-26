@@ -2,7 +2,7 @@
     <span>George Dantas</span>
 </h1>
 
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/Georgedtx/Georgedtx/assets/56283769/c1e526bf-d5ff-4d0d-86de-f4b96329f236">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="300" src="https://github.com/Georgedtx/Georgedtx/assets/56283769/c1e526bf-d5ff-4d0d-86de-f4b96329f236">
 
 <p align="justify">
     Desenvolvedor com experiência em TypeScript, React, Python, FastAPI, Inteligência Artificial, Liderança de equipes e RPA. Atualmente, dedico meu foco principal à criação de APIs utilizando TypeScript e FastAPI, além do desenvolvimento de interfaces com React, sempre buscando aprimorar meus conhecimentos.
