@@ -5,15 +5,15 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="300" src="https://github.com/Georgedtx/Georgedtx/assets/56283769/c1e526bf-d5ff-4d0d-86de-f4b96329f236">
 
 <p align="justify">
-    Desenvolvedor com experiência em TypeScript, React, Python, FastAPI, Inteligência Artificial, Liderança de equipes e RPA. Atualmente, dedico meu foco principal à criação de APIs utilizando TypeScript e FastAPI, além do desenvolvimento de interfaces com React, sempre buscando aprimorar meus conhecimentos.
+    Desenvolvedor com experiência em liderança técnica e desenvolvimento de software. Atualmente, lidero equipes e foco no desenvolvimento web com React e APIs em TypeScript. Também trabalho com Python, FastAPI, inteligência artificial e automações com RPA, aplicando tecnologia de forma eficiente.
 </p>
 
 <p align="justify">
     <strong>Experiências Principais:</strong><br>
+    -<strong>Liderança:</strong> Liderança em projetos de TypeScript, Jogos, RPA e IA.<br>
     -<strong>Desenvolvimento de Backend:</strong> Criação de APIs utilizando TypeScript e FastAPI.<br>
     -<strong>Desenvolvimento de Frontend:</strong> Criação de aplicações web com React.<br>
     -<strong>Inteligência Artificial (IA):</strong> Desenvolvimento de IA aplicada a diversas áreas.<br>
-    -<strong>Liderança:</strong> Liderança em projetos de TypeScript, Jogos, RPA e IA.<br>
     -<strong>Automação de Processos Robóticos (RPA):</strong> Otimização e automação de processos repetitivos para aumentar a eficiência.<br>
 </p>
 
